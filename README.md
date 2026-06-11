@@ -49,4 +49,4 @@ This project uses advanced SQL queries to answer critical business questions, in
 * **Cohort Analysis:** Expand the SQL scripts to analyze customer retention and lifetime value (CLV) based on their first purchase date.
 
 ---
-*Developed by [Your Name/LinkedIn Profile Link]*
+*Developed by Jay patwa/https://jaypatwa21.github.io/*
